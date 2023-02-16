@@ -6,12 +6,12 @@ from telebot import types
 ##TOKEN DETAILS
 TOKEN = "ONS"
 
-BOT_TOKEN = "6085237041:AAH5Ia9gk9W5WgNFpkYV7xX71q5MOUQFiTs"
+BOT_TOKEN = "okj"
 OWNER_ID = 5458705482 #write owner's user id here.. get it from @MissRose_Bot by /id
-CHANNELS = ["@ONSBASEE", "@onsbase_grub", "@menfesonsbase"] #add channels to be checked here in the format - ["Channel 1", "Channel 2"]
+CHANNELS = ["", ""] #add channels to be checked here in the format - ["Channel 1", "Channel 2"]
 BASE = "@ONSBASEE"
-LINKKEDDD = "https://t.me/ONSBASEE"
-PANTAU = "@pantauaja1"
+LINKKEDDD = ""
+PANTAU = "h"
 Daily_bonus = 3 #Put daily bonus amount here!
 Mini_Withdraw = 1000  #remove 0 and add the minimum withdraw u want to set
 Daily_bonuss = 1000000000000
